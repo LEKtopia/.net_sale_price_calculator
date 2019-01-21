@@ -1,0 +1,10 @@
+C:\Users\lynette\Desktop\VS Apps\6-5 Sale Price Calculator\6-5 Sale Price Calculator\bin\Debug\6-5 Sale Price Calculator.exe.config
+C:\Users\lynette\Desktop\VS Apps\6-5 Sale Price Calculator\6-5 Sale Price Calculator\bin\Debug\6-5 Sale Price Calculator.exe
+C:\Users\lynette\Desktop\VS Apps\6-5 Sale Price Calculator\6-5 Sale Price Calculator\bin\Debug\6-5 Sale Price Calculator.pdb
+C:\Users\lynette\Desktop\VS Apps\6-5 Sale Price Calculator\6-5 Sale Price Calculator\bin\Debug\6-5 Sale Price Calculator.xml
+C:\Users\lynette\Desktop\VS Apps\6-5 Sale Price Calculator\6-5 Sale Price Calculator\obj\Debug\Sale_Price_Calculator.Form1.resources
+C:\Users\lynette\Desktop\VS Apps\6-5 Sale Price Calculator\6-5 Sale Price Calculator\obj\Debug\Sale_Price_Calculator.Resources.resources
+C:\Users\lynette\Desktop\VS Apps\6-5 Sale Price Calculator\6-5 Sale Price Calculator\obj\Debug\6-5 Sale Price Calculator.vbproj.GenerateResource.Cache
+C:\Users\lynette\Desktop\VS Apps\6-5 Sale Price Calculator\6-5 Sale Price Calculator\obj\Debug\6-5 Sale Price Calculator.exe
+C:\Users\lynette\Desktop\VS Apps\6-5 Sale Price Calculator\6-5 Sale Price Calculator\obj\Debug\6-5 Sale Price Calculator.xml
+C:\Users\lynette\Desktop\VS Apps\6-5 Sale Price Calculator\6-5 Sale Price Calculator\obj\Debug\6-5 Sale Price Calculator.pdb
